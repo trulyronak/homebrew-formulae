@@ -1,7 +1,7 @@
 require "language/node"
 
 class Gitc < Formula
-  desc "Streamlined Git. Saving Precious Key Strokes and Enter Keys, One Installation At A Time"
+  desc "Streamlined Git. Saving Precious Key Strokes and Enter Keys"
   homepage "https://github.com/trulyronak/gitc"
   url "https://registry.npmjs.org/@trulyronak/gitc/-/gitc-0.0.0.tgz"
   version "0.0.0"
